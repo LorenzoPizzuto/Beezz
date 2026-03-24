@@ -61,10 +61,6 @@ Beezzz is an intelligent hive monitoring system that analyzes sound frequencies 
 
 ## 📱 Screenshots
 
-<div align="center">
-
-## 📱 Screenshots
-
 | Home | Details | Statistics |
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/dc117221-9c36-45f6-aa98-3e7878687833" alt="Beezzz Home" width="250" /> | <img src="https://github.com/user-attachments/assets/76c5f465-acc9-430c-b045-11e3ab953f22" alt="Beezzz Details" width="250" /> | <img src="https://github.com/user-attachments/assets/494d93e8-3c23-4f8b-8710-421395b5193d" alt="Beezzz Statistics" width="250" /> |
