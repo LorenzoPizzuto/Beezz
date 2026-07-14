@@ -195,14 +195,3 @@ Beezzz aims to revolutionize beekeeping by combining advanced technology with pr
 <div align="center">
 
 **Made with ❤️ for smarter and more accessible beekeeping**
-
-⭐ **Star this repo if you found it interesting!** ⭐
-
-</div>
-```
-
-## Adattamenti
-
-Se vuoi renderlo ancora più forte per GitHub, io aggiungerei solo tre cose: screenshot reali dell’app, un piccolo diagramma dell’architettura hardware-app, e una sezione “Demo” con GIF o video breve.
-
-Sources
